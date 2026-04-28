@@ -142,5 +142,3 @@ All final decisions, structure, and refinements were made manually.
 
 This is a concept project, not a real product.
 
-
-
