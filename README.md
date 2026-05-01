@@ -1,4 +1,5 @@
 # Astra 2077 🚀
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 🔗 **Live Demo:** https://astra-2077.vercel.app/
 
