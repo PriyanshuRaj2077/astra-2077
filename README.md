@@ -14,7 +14,8 @@ A futuristic product showcase exploring how a single adaptive device can transfo
 - Smartphone  
 - Wearable (Wrist Mode)  
 - Tablet  
-- Laptop  
+- Laptop
+- powerful 
 
 The experience focuses on a **minimal, system-like interface** rather than a traditional webpage.
 
